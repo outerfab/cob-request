@@ -3,7 +3,7 @@
 A public multi-step form that leads from "I have a chip" to a complete chip-on-board (CoB) request for
 [outerfab](https://outerfab.com). At the end it shows one JSON document in a code block, ready to copy and send.
 
-**Live:** https://outerfab.github.io/cob-request/
+**Live:** https://cob.outerfab.com/
 
 ## How it works
 
